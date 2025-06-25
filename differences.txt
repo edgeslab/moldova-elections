@@ -1,0 +1,56 @@
+Row 1 - Differences found:
+translatedContentText: @Darthputkgb Hai Moldova!
+  Column: pro-Sandu
+    Andrea: Yes
+    Osman: No
+  Column: neutral-Sandu
+    Andrea: No
+    Osman: Yes
+  Column: non-relevant to Sandu
+    Andrea: No
+    Osman: Yes
+
+Row 5 - Differences found:
+translatedContentText: 🇷🇴🇲🇩 The Romanian earthquake caught Moldovan President Maia Sandu live on television. Google confirms earthquake with epicenter in Romania, which was also felt in Ukraine. Magnitude - 5.3 points. https://t.co/lATODarrlT
+  Column: neutral-Sandu
+    Andrea: Yes
+    Osman: No
+  Column: non-relevant to Sandu
+    Andrea: No
+    Osman: Yes
+
+Row 18 - Differences found:
+translatedContentText: The president(Maia Sandu) is hated by opposition, and Ilan Şor by everyone else
+  Column: anti-Sandu
+    Andrea: No
+    Osman: Yes
+  Column: neutral-Sandu
+    Andrea: Yes
+    Osman: No
+
+Row 52 - Differences found:
+translatedContentText: Does the opposition see it the same way? The EU Commission does Moldau support 300,000 votes bought with 1.8 billion euros? President Moldaus sees "unprecedented" election manipulation Maia Sandu wins the votes in Moldau. But there is a runoff election. https://t.co/endthwt95
+  Column: anti-Sandu
+    Andrea: No
+    Osman: Yes
+  Column: neutral-Sandu
+    Andrea: Yes
+    Osman: No
+
+Row 77 - Differences found:
+translatedContentText: 🇪🇺 🇲🇩 The President of the European Commission, Ursula von der Leyen, presented in Chisinau the "Plan of economic growth for the Republic of Moldova" by which the European Union wants to invest in Moldova 1.8 billion euros in the next three years. • Ursula von der Leyen spoke to the Moldovan press on October 10, at a briefing supported with Maia Sandu, involved in the election campaign for a new president. • The head of the European Commission said that "the place of Moldova is in the European Union", which can contribute to "doubling the Moldovan economy in the next ten years". For this, Brussels has launched a new financial assistance tool for Moldova. • According to Ursula von der Leyen, the 1.8 billion euros are to be invested in "areas that will generate economic growth and public services", such as the repair of schools, the construction of two new hospitals in Balti and Cahul, the construction of roads and bridges that interconnect Moldova with its neighbors, but also the development of the energy network. • On the eve of the presidents and the referendum on October 20 requested by Maia Sandu, the president of the European Commission congratulated the Moldovan President for "how employed in the European" Moldova. • Ursula von der Leyen encouraged Moldovans to vote to express their "free and sovereign choice" in the polling stations, but did not tell the Moldovans how to vote. • However, the president of the European Commission praised Sandu for the progress in the EU accession. She also mentioned "the initiation of the important reform in justice, the fight with the corruption and elimination of the oligarch from the economy"-that is, Maia Sandu's promises from the previous presidential campaign, for which she was criticized by opponents that she would not have led them to the end. • Maia Sandu called the EU investment plan "a symbol of trust in the potential of Moldova of transformation and development". • It reminded of receiving the status of country candidate for accession to the European Union and the beginning of the accession negotiations, achievements obtained by the Republic of Moldova during its mandate. "Thank you dear Ursula for all the support given to Moldova in all these years," said the Moldovan president. • She acknowledged that the visit of the President of the European Commission takes place "at a crucial moment" for Moldova, specifying that Moldovans, regardless of "ethnicity, political language or visions" want in the European Union. • The new EU assistance for the Republic of Moldova comes in a week with more solidarity gestures with the leadership from Chisinau, against the backdrop that Russia seeks to influence the result of the October 20 elections, in which the president, Maia Sandu, will seek to obtain a new mandate, including the continuation of European integration. https://www.facebook.com/photo.php?fbid=959855139520172&set=a.582974670541556&type=3
+  Column: pro-Sandu
+    Andrea: No
+    Osman: Yes
+  Column: neutral-Sandu
+    Andrea: Yes
+    Osman: No
+
+Row 89 - Differences found:
+translatedContentText: Dorin Recean said that the Republic of Moldova could learn from Poland "to negotiate intelligently" in the process of accession to the European Union. VIDEO/ Polish Prime Minister Donald Tusk: "R. Moldova has the right to tell Europe that the extension and cooperation between the Member States is in the interest of the whole of Europe. ”The Prime Minister of Poland, Donald Tusk, has arrived in Chisinau. He was welcomed by his Moldovan counterpart, and the two premiers had a bilateral meeting, followed by an extended meeting of the delegations in the two states. Dorin Recean said that the Republic of Moldova could learn ... https://www.zdg.md/stiri/politic/video-polonez-donald-tusk-r-moldova-are-dre-a-a-Resuropa-as-Extindere-and-Cooperation-stransa-drensa-membre-est-in-interesul-intregi-europe//
+  Column: neutral-Sandu
+    Andrea: Yes
+    Osman: No
+  Column: non-relevant to Sandu
+    Andrea: No
+    Osman: Yes
