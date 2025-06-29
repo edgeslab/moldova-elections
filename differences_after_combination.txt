@@ -1,522 +1,287 @@
 Row 0 - Differences found:
   tweet: 'New TV-deputies from Lithuania will pay a visit to Chisinau from the group for interparulation relations with the Republic of Moldova from the Seimas of the Republic of Lithuania will be, on August 26-28, & https://newtv.md/toate-stiri/UPUTATI-din-lutuania-lutu-a-vis.'
     Column: neutral-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 3 - Differences found:
   tweet: '@sandumaiamd Chisinau will look similar to Poltava very soon, probably already in 2025.'
-    Column: anti-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: neutral-Europe
-      Osman:   'Yes'
-      Andrea: 'No'
     Column: non-relevant to Russia
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 5 - Differences found:
   tweet: '🇷🇴🇲🇩 The Romanian earthquake caught Moldovan President Maia Sandu live on television. Google confirms earthquake with epicenter in Romania, which was also felt in Ukraine. Magnitude - 5.3 points. https://t.co/lATODarrlT'
     Column: neutral-Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
     Column: non-relevant to Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
 
 Row 6 - Differences found:
   tweet: 'And Abruisement was first in line of 200,000 chickens fleeing to Georgia when Pooty came calling'
     Column: anti-Russia
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
     Column: neutral-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Russia
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 7 - Differences found:
   tweet: "I think Moldova in general is evenly balanced between pro russia and pro europe, with the older generation leaning towards russian and thr younger europe. This is before Transnistria is counted. With transnistria included it pushes that balance in russia's favour. Without question it would be simple to take as russia wont be in a position to offer assistance. Moldova could do this by themselves, but have elected not to due to the impact of an extra bunch of pro russians voting."
     Column: pro-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: neutral-Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 12 - Differences found:
-  tweet: 'Olaf Scholz is expected in Chisinau! The access of people will be limited to certain public places in the capital #chisinau #olafscholz #visit https://t.co/ndp3dkiufl'
-    Column: neutral-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 15 - Differences found:
   tweet: 'The European Union will allocate a record €1.8 billion to Moldova to support the country’s plan to join the bloc, European Commission President Ursula von der Leyen said Thursday https://t.co/WmZoKBRXKK'
     Column: pro-Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
     Column: neutral-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
 
 Row 16 - Differences found:
   tweet: '@Kim_Chen_un in Afghanistan they have already crap and the Taliban will not be allowed, and Moldova and Georgia are corrupt rulers and there is a chance to swing Russia, but the idiots are mistaken again'
     Column: pro-Russia
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: neutral-Russia
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
-
-Row 18 - Differences found:
-  tweet: 'The president(Maia Sandu) is hated by opposition, and Ilan Şor by everyone else'
-    Column: anti-Russia
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: pro-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: neutral-Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-    Column: non-relevant to Russia
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 21 - Differences found:
-  tweet: 'Young people from Moldova, detained at the Austro-German border while transporting 9 Syrians in a car. Three children were in the young luggage compartment in Moldova, detained at the Austro-German border while transporting 9 Syrians. Three children were in the trunk: Igor Liubec 18:02, September 29, 2024 German Police Photo: A 21 -year -old from Moldova is investigated in Germany for trafficking on ... https://deschide.md/ro/stiri/social/157435/t%C3%A2N%C4%83r-din-Moldova-re%C8%9binut-la-Frontie-Austro-German C4%83-%C3%Aen-Timp-Ce-TRANSPORE-9-Syrian-%C3%Aentr-O-Ma%C8%99in%C4%83-Trei-Copii-Aflau-%C3%Aen-Portbagaj.htm'
-    Column: neutral-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 26 - Differences found:
-  tweet: "Yeah it'll be Lithuania first, then Georgia or Moldova, then Estonia, Finland, Latvia. THEN Poland."
-    Column: neutral-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-
-
-
 
 Row 27 - Differences found:
   tweet: "@iltasanomat may dictator Zelensk as Persian Moldova goes by throwing an EU life while Ukraine's EU membership is just an inaccessible dream."
     Column: anti-Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
     Column: neutral-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
 
 Row 28 - Differences found:
   tweet: "@SonyaDymova “We know there's a runoff coming, and we have every expectation that the Russians are going to want to try to affect that runoff,” he said about the election and the referendum on EU integration that took place in Moldova over the weekend."
     Column: pro-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: neutral-Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 29 - Differences found:
-  tweet: '@SomeGuy78309428 @visegrad24 For starters, Moldova has been a part of the Soviet Union and many Romanian people living there were deported to Siberia. The ones that remained simply accepted the idea of being part of the Russia. The Moldavian elites are for a reunification yet the rural communities are not.'
-    Column: pro-Russia
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: neutral-Russia
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 32 - Differences found:
   tweet: 'The White House warns that Russia works actively to undermine the Moldovan elections and its European integration. The White House warns that Russia works actively to undermine the Moldovan elections and its European integration https://epochtimes-romania.com/news/casa--avertisea-ca-rusia-lucare-aiv-penta-a-submina-dina-din-Moldova-si-integration--3'
     Column: anti-Russia
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
     Column: neutral-Russia
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: pro-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: neutral-Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 36 - Differences found:
   tweet: 'Don\'t miss tomorrow\'s event: "Report Back on the #NoToNATO, Yes to Peace"! We\'ll discuss the People\'s Summit, NATO\'s 75th anniversary, the increasing risks posed by NATO, and ways to achieve global peace! Welcome! You are invited to join a webinar: Report Back Webinar: No to NATO! Yes to Peace!. After registering, you will receive a confirmation email about joining the webinar. Report Back Webinar: No to NATO! Yes to Peace! Wednesday August 28 4pm PT / 5pm MT / 6pm CT / 7pm ET / 9pm AT From July 9-11, NATO held their 75th anniversary summit in Washington DC. Join the report back to hear from activists and organizers at the No to NATO, Yes to Peace and Resist NATO counter-s... https://buff.ly/3yQskzp'
     Column: anti-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-
-      
-
-Row 37 - Differences found:
-  tweet: '@ChrisLawSNP Moldova has my sympathies… The propaganda must be strong over there…'
-    Column: anti-Russia
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Russia
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 38 - Differences found:
-  tweet: "@dapyyx @Vali_ghincolov not to forget what Moldova looks like now, because it will not be the same over 10 years after entering the EU. And ro thinks so, but forget about what stage was RO before entering the EU. This is people's disease, forget very quickly."
-    Column: anti-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: neutral-Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-    Column: non-relevant to Russia
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 41 - Differences found:
-  tweet: 'No one can know for sure, and there are variable which will determine what would happen and what kind of response there would be. You entertain yourself with gpt and ask for imaginary scenarios from it. Heres one: Certainly! Here\'s a more detailed day-by-day timeline of events following a hypothetical Russian tactical nuclear strike on Ukraine, with distinct responses from Russia, Ukraine, NATO, and the UN. --- ### \\*\\*Day 1: The Strike\\*\\* - \\*\\*Russia:\\*\\* - Russia launches a tactical nuclear strike on a Ukrainian military installation near the front lines in eastern Ukraine, possibly around a strategic target like Bakhmut or Kharkiv. The strike involves a small-yield nuclear device (less than 10 kilotons). - Russian President Vladimir Putin addresses the nation, justifying the strike as a "necessary step to protect Russian sovereignty and citizens" after alleged Ukrainian provocations and NATO’s growing military support. - The Russian military goes to DEFCON 2 (next-to-highest nuclear alert), deploying mobile ICBMs and moving submarines to secure positions in the Arctic and Pacific. - Russia’s state-controlled media rolls out a massive propaganda campaign, framing the strike as Russia’s last line of defense against Western aggression. - \\*\\*Ukraine:\\*\\* - Panic erupts across Ukraine. The strike kills thousands instantly, with tens of thousands affected by radiation fallout. Key infrastructure in the region is obliterated. - President Volodymyr Zelensky declares a nationwide state of emergency, calling the attack "an act of terror against humanity." He calls on the international community to intervene immediately. - Martial law is enforced, and civilians in major cities begin evacuations. Ukrainian forces scramble to assess the damage, treating casualties and preparing for potential further strikes. - Zelensky appeals directly to NATO for immediate intervention and invokes Ukraine\'s right to self-defense under international law. - \\*\\*NATO:\\*\\* - NATO\'s North Atlantic Council holds an emergency meeting under Article 4 (threatened member consultation). Leaders of the U.S., UK, France, and Germany begin high-level discussions on how to respond. - NATO forces in Eastern Europe, particularly in Poland, Romania, and the Baltics, are placed on high alert. NATO naval groups in the Black Sea prepare for potential engagement. - U.S. nuclear forces move to DEFCON 3, signaling a readiness posture without committing to an immediate retaliatory strike. - Behind the scenes, NATO intelligence services verify the location, yield, and impact of the nuclear device. Special forces and cyber units begin covert operations against Russian command-and-control networks. - \\*\\*UN:\\*\\* - The UN Security Council convenes for an emergency meeting. Russia, as a permanent member, vetoes any immediate punitive resolutions, including calls for sanctions or military action. - The Secretary-General António Guterres issues a grave statement condemning the attack and calls for immediate de-escalation to prevent further use of nuclear weapons. - The International Atomic Energy Agency (IAEA) issues an urgent assessment of the radiation risks to neighboring countries. Governments in Poland, Belarus, and Moldova issue public health warnings. - The UN prepares to coordinate a humanitarian response, though access to the impacted area remains impossible due to radiation. ---'
-    Column: anti-Russia
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: neutral-Russia
-      Osman:   'Yes'
-      Andrea: 'No'
-    Column: neutral-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 43 - Differences found:
   tweet: '✨ An important commitment to the future of children in Moldova! During the conference dedicated to the European Guarantee for Children, the representatives of the Government of the Republic of Moldova, with the UNICEF support, took a historical step by adopting a statement that emphasizes the firm commitment of our country in the direction of developing and implementing the European Guarantee for Children 🇪🇺🇲🇩 The Secretary of State of the Ministry of Labor and Social Protection of the Republic of Moldova, Vasile Cușcă 📄 The declaration comes to strengthen the commitment of the central authorities to transform the major challenges faced by Moldovan children into opportunities to improve their lives. The representatives of the resort ministries unite their efforts to combat poverty and social exclusion among the most vulnerable children, ensuring fair access to quality education, health services, social protection and economic support. 🤝 The adoption of this declaration represents not only a commitment from the authorities, but also a long -term vision for the development of Moldova, aligning the national policies to the European standards of protection and social inclusion. This process will transform the lives of thousands of children from all over the country, giving them the opportunity to develop into a safe environment and reach their maximum potential 💙 We thank all international partners, experts and organizations who have contributed to this important moment! 🌍 Ministry of Education and Research of the Republic of Moldova Ministry of Health of the Republic of Moldova Union in the Republic of Moldova European Commission Unicef \u200b\u200bEurope & Central Asia Maha Damaj https://www.facebook.com/photo.php?fbid=923960753088734&set=a.581475867337226&type=3'
     Column: pro-Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
     Column: non-relevant to Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
 
 Row 44 - Differences found:
   tweet: 'It was reported that an incendiary missile was fired at the Palanka checkpoint between Ukraine and Moldova in the Odessa region. #kursk #russia #UkraineRussiaWar️️ #odessa #fire #russia #rusia #Ucraina #nato #Ukrainian #Zelensky #putin #war #ww3 #sondakika #savaş #guerre https://t.co/pRoY8mabYr'
     Column: anti-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 45 - Differences found:
-  tweet: "Maia Sandu Speră să câștige alegerile prezidențiale din primul vur. Nu are nicio șansă. ESTE EVIENT Că va Fi Turul Doi, Despre Asta Vorbesc Deja și Propagandiștii Pas, între maia sandu și candatulu porului alexandru stoianoglo, Pe Care îl Susțințințin Socialiștii și EU Personal. Vreau să avertizez din nou guvernarea: dacă alexandru stoianoglo, Candidatul poporului, nu va fi fi va fi exclus din cursa electorală, noi ne rezervăm Dreptul de a boicota alegerile și vom Chema oamenii în stradă. :::::::: In the PM, Maya Sandu expects to win the presidential election from the first round. Zero chances. It is obvious that there will be a second round, the propagandists of PAS, between Maya Sandu and People’s Candidate Alexander Stoyanoglo, who are supported by the socialists and I personally are already talking about this. I want to warn the authorities again: if the people's candidate Alexander Pisanoglo is not registered or excluded from the election race, we will use the right to boycott the elections and call people to the streets. https://www.facebook.com/400101714817025/videos/1482974625677350"
-    Column: pro-Russia
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: neutral-Russia
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 47 - Differences found:
-  tweet: 'Moldova has declared increased readiness in the gas sphere through fighting in Kurshchyna https://t.co/eds1fgz1yn #News'
-    Column: anti-Russia
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Russia
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 48 - Differences found:
   tweet: '>This incident was long before Russian propaganda was so heavily thought about. But not before russian propaganda started. I highly recommend reading: [https://en.wikipedia.org/wiki/Foundations\\_of\\_Geopolitics](https://en.wikipedia.org/wiki/Foundations_of_Geopolitics) (a geopolitical book by Aleksandr Dugin, published in 1997). It\'s a blueprint which details russian geopolitical strategy/goals for the decades to come (again, remember, the book was published in 1997): >Russia should use its special services within the borders of the United States to fuel instability and separatism, for instance, provoke "Afro-American racists". Russia should "introduce geopolitical disorder into internal American activity, encouraging all kinds of separatism and ethnic, social and racial conflicts, actively supporting all dissident movements – extremist, racist, and sectarian groups, thus destabilizing internal political processes in the U.S. It would also make sense simultaneously to support isolationist tendencies in American politics". > >The United Kingdom, merely described as an "extraterritorial floating base of the U.S.", should be cut off from Europe. > >Belarus and Moldova are to become part of Russia. > >Romania, North Macedonia, Serbia, "Serbian Bosnia" and Greece – "Orthodox collectivist East" – will unite with "Moscow the Third Rome" and reject the "rational-individualistic West". > >Ukraine should be annexed by Russia because "Ukraine as a state has no geopolitical meaning, no particular cultural import or universal significance, no geographic uniqueness, no ethnic exclusiveness, its certain territorial ambitions represents an enormous danger for all of Eurasia and, without resolving the Ukrainian problem, it is in general senseless to speak about continental politics". Ukraine should not be allowed to remain independent, unless it is cordon sanitaire, which would be inadmissible. > >Iran is a key ally. The book uses the term "Moscow–Tehran axis". > >Armenia has a special role: It will serve as a "strategic base," and it is necessary to create "the \\[subsidiary\\] axis Moscow-Yerevan-Teheran". Armenians "are an Aryan people ... \\[like\\] the Iranians and the Kurds". > >Azerbaijan could be "split up" or given to Iran. > >Georgia should be dismembered. Abkhazia and "United Ossetia" (which includes Georgia\'s South Ossetia and the Republic of North Ossetia) will be incorporated into Russia. Georgia\'s independent policies are unacceptable. > >Russia needs to create "geopolitical shocks" within Turkey. These can be achieved by employing Kurds, Armenians and other minorities.'
-    Column: anti-Russia
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: neutral-Russia
-      Osman:   'Yes'
-      Andrea: 'No'
     Column: neutral-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 49 - Differences found:
-  tweet: '@DorinCheptea @7genblogger @GHarward @OspreyBooks Germans in the city had to surrender. But the events on the front in Moldova were much more dramatic. 150,000 Romanian soldiers were sent to Gulag. Other tens of thousands of German and Romanian soldiers were machine gunned in the process of surrendering. Massacre. 3/3'
-    Column: anti-Russia
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: neutral-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Russia
-      Osman:   'Yes'
-      Andrea: 'No'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 50 - Differences found:
   tweet: '@SOPJAP DIASPORA MOLDOVA AGAINST MOLDOVA ....'
     Column: anti-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 51 - Differences found:
   tweet: 'Another tool used by russia in its hybrid war against Moldova has been religion. Using the Orthodox Church connected to moscow patriarchy, they’ve been bribing priest and relaying points of propaganda to spread to locals. Ukraine understood this early on and banned them.'
     Column: pro-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 52 - Differences found:
   tweet: 'Does the opposition see it the same way? The EU Commission does Moldau support 300,000 votes bought with 1.8 billion euros? President Moldaus sees "unprecedented" election manipulation Maia Sandu wins the votes in Moldau. But there is a runoff election. https://t.co/endthwt95'
     Column: pro-Russia
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Russia
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 53 - Differences found:
-  tweet: ">But the West also doesn't want to actually goad Russia into expanding the war. And what do you think will happen if Russia wins? This isn't an isolated incident they attacked Georgia prior to this and Moldova (Transnistria) before that."
-    Column: neutral-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 54 - Differences found:
-  tweet: "🇲🇩🇮🇸 Moldovans from Iceland, who have registered to vote, for the first time, by correspondence, will receive the envelopes with the bulletins for participating in the referendum and the presidential elections. Photos from Embassy of Moldova to Sweden, Norway, Finland and Iceland's Post https://www.facebook.com/939943661511402/posts/939921798180255"
-    Column: neutral-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 55 - Differences found:
-  tweet: "Residents Of Breakaway Transdniester Region Vote In Moldova's Elections https://t.co/HkSOL0yWfd"
-    Column: neutral-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 56 - Differences found:
-  tweet: "Several US agencies are supporting the Moldovan government in combating cyberattacks and disinformation from Russia aimed at interfering with Moldova's elections this weekend. https://t.co/xRN1PdoVFW What's too late now? Even though I've been doing it for a long time."
-    Column: pro-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 59 - Differences found:
-  tweet: '@RadioGenoa In 2009, the International Labour Organization reported that forced labor is the most predominant form of trafficking in Russia. Men, women and children from Russia, Belarus, Tajikistan, Uzbekistan, Ukraine and Moldova—are subjected to conditions of debt bondage and forced labor.'
-    Column: neutral-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 61 - Differences found:
-  tweet: 'The transport infrastructure of the natural gas from the territory of Moldova, removed under the control "Gazprom": the company "Vestmoldtransgaz" from the Republic of Moldova, owned by "Transgaz" in Romania, definitively certified, in accordance with the EU requirements: the operator of the natural gas transport system of the Republic of Moldova, SRL "Vestmoldransgaz" natural gas from the territory of Moldova, removed under the control "Gazprom": the company "Vestmoldtransgaz" from the Republic of Moldova, owned by "Transgaz" from Romania, definitively certified, according to the operator of the natural gas transport system in the Republic of Moldova, SRL "Vestmoldtr ... http://dlvr.it/tcghn7'
-    Column: neutral-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 63 - Differences found:
   tweet: "Moldova, the poorest country in Europe, has some of its best wines. I recently attended the Moldova National Wine Day then toured a winery with the world's largest wine cellar with two million bottles. My latest Dog-Eared Passport: https://t.co/KvvZJGOLLd"
     Column: neutral-Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
     Column: non-relevant to Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
 
 Row 65 - Differences found:
   tweet: '@edgekangx @alexandrunuta2 just as he ignores that, in 1812, the east part of Mola was given to the Russian Empire by the Ottoman Empire! That Crimea, by the way. Moldova and Crimea were vasal states, so the empire remained whole ...'
     Column: anti-Russia
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: neutral-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Russia
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
     Column: non-relevant to Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 67 - Differences found:
-  tweet: '@IAPonomarenko They have been doing stuff quietly as a strategy. Not sure if it was a good or a bad strategy, but this is how they operate. Maybe because they are worried about Russian military in Moldova, maybe worried about Hungary and Serbia, I don’t know.'
-    Column: neutral-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 68 - Differences found:
   tweet: 'The training took place in Serbia and Bosnia and Herzegovina /I would /. https://t.co/93ymb1fdvi'
     Column: neutral-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 71 - Differences found:
   tweet: 'This my friends is election heritage 🗿'
     Column: neutral-Russia
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: neutral-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Russia
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
     Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 72 - Differences found:
   tweet: 'Yeah, I had a Hungarian friend a few years back. She said the country was, to put it mildly, ignorant and closed minded. The men also tend to overshare a lot as well. Her words. I assume that meant it would be quite racist and traditional, not really progressive socially speaking. I imagine many other Eastern European, ex soviet block countries are the same. Poland is massively religious, so you can imagine what that could be like. Belarus is essentially Russia light. Moldova is tiny but apparently makes really good wine, a population less than London I think. Can’t say much else about many others though. Essentially a lot of places in Europe, mostly the ex soviet ones, still have an awful culture of toxic masculinity. And during the European football cup a few months back the fans with the most disruptions and drunken smashing the place up incidents I think were Albanians, followed by Latvians. Countries known for such a culture, at least I think they are. Their countries were hit hard during the rule and fall, of the USSR. Economic stability was terrible and they lived in poverty, especially compared to the USA. They had to live hard lives and became hard people, something still fresh in the minds of many, and carries over into today. When people glorify Europe they’re most likely thinking of the golden standard progressive places like the Nordic countries and Denmark and the Netherlands too. Also perhaps Germany. Many places in Europe aren’t all that Lord of the rings divine elven perfection crap some people here would have you believe'
     Column: anti-Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
     Column: non-relevant to Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
 
 Row 75 - Differences found:
   tweet: 'A young woman from Moldova, recruited to provide sexual services in Germany. An individual, detained https://t.co/cnlhdvc2ym https://t.co/ulhm1jd8qi'
     Column: anti-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 76 - Differences found:
   tweet: 'News threads of Moldova joining the EU are riddled with bots saying “take that Putin, füćk you” It’s as if the interests of the Moldovan people themselves is of secondary or incidental importance. As long as Putin is pïssed off about it…that’s the main thing in 🤡🌍'
-    Column: anti-Russia
-      Osman:   'Yes'
-      Andrea: 'No'
-    Column: neutral-Russia
-      Osman:   'No'
-      Andrea: 'Yes'
     Column: anti-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: neutral-Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 77 - Differences found:
   tweet: '🇪🇺 🇲🇩 The President of the European Commission, Ursula von der Leyen, presented in Chisinau the "Plan of economic growth for the Republic of Moldova" by which the European Union wants to invest in Moldova 1.8 billion euros in the next three years. • Ursula von der Leyen spoke to the Moldovan press on October 10, at a briefing supported with Maia Sandu, involved in the election campaign for a new president. • The head of the European Commission said that "the place of Moldova is in the European Union", which can contribute to "doubling the Moldovan economy in the next ten years". For this, Brussels has launched a new financial assistance tool for Moldova. • According to Ursula von der Leyen, the 1.8 billion euros are to be invested in "areas that will generate economic growth and public services", such as the repair of schools, the construction of two new hospitals in Balti and Cahul, the construction of roads and bridges that interconnect Moldova with its neighbors, but also the development of the energy network. • On the eve of the presidents and the referendum on October 20 requested by Maia Sandu, the president of the European Commission congratulated the Moldovan President for "how employed in the European" Moldova. • Ursula von der Leyen encouraged Moldovans to vote to express their "free and sovereign choice" in the polling stations, but did not tell the Moldovans how to vote. • However, the president of the European Commission praised Sandu for the progress in the EU accession. She also mentioned "the initiation of the important reform in justice, the fight with the corruption and elimination of the oligarch from the economy"-that is, Maia Sandu\'s promises from the previous presidential campaign, for which she was criticized by opponents that she would not have led them to the end. • Maia Sandu called the EU investment plan "a symbol of trust in the potential of Moldova of transformation and development". • It reminded of receiving the status of country candidate for accession to the European Union and the beginning of the accession negotiations, achievements obtained by the Republic of Moldova during its mandate. "Thank you dear Ursula for all the support given to Moldova in all these years," said the Moldovan president. • She acknowledged that the visit of the President of the European Commission takes place "at a crucial moment" for Moldova, specifying that Moldovans, regardless of "ethnicity, political language or visions" want in the European Union. • The new EU assistance for the Republic of Moldova comes in a week with more solidarity gestures with the leadership from Chisinau, against the backdrop that Russia seeks to influence the result of the October 20 elections, in which the president, Maia Sandu, will seek to obtain a new mandate, including the continuation of European integration. https://www.facebook.com/photo.php?fbid=959855139520172&set=a.582974670541556&type=3'
     Column: anti-Russia
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
     Column: non-relevant to Russia
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
 
 Row 78 - Differences found:
   tweet: "That wasn't even the claim. You are a propagandist. You cry about Ukraine civilians being killed yet support Russia civilians being killed ✔️ You make bull shit claims like Russia invaded Ukraine before 2014 ✔️ You say Russia will invade Moldova despite being no evidence ✔️ You make no counter arguments ✔️ Bases on these factors either you are 1: an incredibly naive evil person who supports civilians being killed 2: a bot 3: a paid shill"
     Column: anti-Russia
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: neutral-Russia
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
     Column: neutral-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 81 - Differences found:
-  tweet: 'null https://www.reddit.comhttps://www.occrp.org/en/feature/a-russian-non-profit-interferes-in-moldovas-eu-referendum-and-builds-an-anti-western-influence-machine'
-    Column: anti-Russia
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: neutral-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Russia
-      Osman:   'Yes'
-      Andrea: 'No'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 82 - Differences found:
   tweet: 'The Embassy of the Republic of Moldova in the Greek Republic informs the citizens of the Republic of Moldova who are located, transit or intend to travel to Greece about the vegetation fires in the Attica area, Marathon, Kallitechnoupoli and Grammatikos. Travel alert in Greece: The MAE recommendations for Moldovans - TV6 The Embassy of the Republic of Moldova in the Greek Republic informs the citizens of the Republic of Moldova who are located, transit or intend to travel to Greece about the vegetation fires in the Attica area, Marathon, Kallitechnoupoli and Grammatikos. "In this context, MAE (Embassy) ... https://tv6.live/ro/2024/08/13/alerta-de-calatorie-in-gracia-recomandari-mae-pentru-moldoveni/'
     Column: neutral-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Europe
-      Osman:   'Yes'
-      Andrea: 'No'
-
-Row 86 - Differences found:
-  tweet: "The same way as other countries do it. Democracy in Georgia, Moldova, Ukraine, Armenia in 1991 was in the same or even worse state than in Russia, but they managed to ensure free and fair elections in the end. There was no specific reason for Russia to become a dictatorship other than a free will of most of the Russians to recreate aggressive Russian Empire instead of successful democracy. They got what they want, there's no one else to blame for that."
-    Column: pro-Europe
-      Osman:   'No'
-      Andrea: 'Yes'
-    Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 95 - Differences found:
   tweet: 'Absolutely! Moldova should just bulldoze transnistria and get it back fully! Ukraine invades from one side, Moldova from the other and voila! Territorial integrity restored!'
     Column: anti-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
 
 Row 98 - Differences found:
   tweet: "This was reported on October 9 in the clinical infectious diseases hospital of Tom Chorbe's impeat. According to the first information, the case is registered with a patient from Italy. The second confirmed case of the Western Nile virus in Moldova - Nokta in the Republic of Moldova confirmed the case of infection with the Western Nile virus. This was reported on October 9 in the clinical infectious diseases hospital of Tom Chorbe's impeat. On per .... https://nokta.md/vtoroj-podtverzhdjonnyj-sluchaj-virusa-zapadnogo-nila-v-moldove/"
     Column: anti-Europe
-      Osman:   'No'
+      Combined:   'No'
       Andrea: 'Yes'
     Column: non-relevant to Europe
-      Osman:   'Yes'
+      Combined:   'Yes'
       Andrea: 'No'
