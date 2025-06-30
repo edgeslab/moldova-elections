@@ -2,13 +2,13 @@ import pandas as pd
 
 # Define the 8 label columns
 label_columns = [
-    "pro-Stoianoglo", "anti-Stoianoglo", "neutral-Stoianoglo",
-    "pro-Sandu", "anti-Sandu", "neutral-Sandu",
-    "non-relevant to Stoianoglo", "non-relevant to Sandu"
+    "pro-Russia", "anti-Russia", "neutral-Russia",
+    "pro-Europe", "anti-Europe", "neutral-Europe",
+    "non-relevant to Russia", "non-relevant to Europe"
 ]
 
 # Load the text file (assuming it's already in variable form or you can load from a file)
-with open("../manual_label_2 (1).txt", "r", encoding="utf-8") as f:
+with open("manual_label.txt", "r", encoding="utf-8") as f:
     lines = [line.strip() for line in f.readlines() if line.strip()]
 
 # Initialize empty dataframe
@@ -32,6 +32,4 @@ for idx, line in enumerate(lines):
 df = pd.DataFrame(data)
 
 # Save to CSV
-df.to_csv("labeled_stances_2_1.csv", index=False)
-
-df.head()
+df.to_csv("labeled_stances_1_OSMAN.csv", index=False)
