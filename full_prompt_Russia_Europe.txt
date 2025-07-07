@@ -3,15 +3,14 @@ Tweet Classification Task
 
 
 Overview
-You will classify tweets about Moldovan politics. For each tweet, you must output exactly 8 values in JSON array format.
+You will classify tweets about Moldovan politics. For each tweet, you must output exactly 9 values in JSON array format.
 
 
 Output Format
-For each tweet, return: [pro_Russia, anti_Russia, neutral_Russia, pro_Europe, anti_Europe, neutral_Europe, non_relevant_Russia, non_relevant_Europe]
+For each tweet, return: [pro_Russia, anti_Russia, neutral_Russia, pro_Europe, anti_Europe, neutral_Europe, non_relevant_Russia, non_relevant_Europe, 100_char]
 
 
 Step-by-Step Process
-
 
 Step 1: Country Mention Detection
 For each country (Europe and Russia):
@@ -45,6 +44,8 @@ Neutral-[Country] = "yes" if:
 Non-relevant to [Country] = "yes" if:
 - Country is NOT mentioned at all in the tweet
 
+Step 3: Tweet Extraction
+Extract the first 100 characters of the tweet. This will be the "100_char" value of the corresponding array
 
 Important Rules
 1. Mixed sentiment allowed: A tweet can be both pro-Country AND anti-Country if it praises them for one thing and criticizes them for another
@@ -71,12 +72,12 @@ Input tweets:
 
 Expected output:
 [
- ["no", "yes", "no",  "no", "no", "yes",  "no", "no"]
- ["no", "no", "no", "no", "yes", "no", "yes", "no"]
- ["no", "no", "no", "yes", "no", "no", "yes", "no"]
- ["no", "no", "no", "no", "no", "no", "yes", "yes"]
- ["yes", "no", "no", "no", "yes", "no", "no", "no"]
- ["no", "no", "no", "no", "yes", "no", "yes", "no"]
+ ["no", "yes", "no",  "no", "no", "yes",  "no", "no", "Don’t forget Georgia and Moldova, Russians have been slicing off pieces of Eastern European countrie"]
+ ["no", "no", "no", "no", "yes", "no", "yes", "no", "@RksNews It's not the right moment to join EU. EU & NATO promised 'stability & prosperity' to Ukrain"]
+ ["no", "no", "no", "yes", "no", "no", "yes", "no", "Congratulations @Sandumaiamd for victory in the first round of the presidential elections in #Moldov"]
+ ["no", "no", "no", "no", "no", "no", "yes", "yes", "not like he's there anymore lmao"]
+ ["yes", "no", "no", "no", "yes", "no", "no", "no", "Maia Sandu Speră să câștige alegerile prezidențiale din primul vur. Nu are nicio șansă. ESTE EVIENT"]
+ ["no", "no", "no", "no", "yes", "no", "yes", "no", "@iltasanomat may dictator Zelensk as Persian Moldova goes by throwing an EU life while Ukraine's EU"]
 ]
 
 
