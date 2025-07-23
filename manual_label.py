@@ -32,4 +32,4 @@ for idx, line in enumerate(lines):
 df = pd.DataFrame(data)
 
 # Save to CSV
-df.to_csv("labeled_stances_1_OSMAN.csv", index=False)
+df.to_csv("labeled_stances_1_CLAUDE.csv", index=False)
